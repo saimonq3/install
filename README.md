@@ -7,4 +7,4 @@
 	git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 
-## Если надо переконфигурировать oh-my-zsh: **p10k configure**
+Если надо переконфигурировать oh-my-zsh: **p10k configure**
